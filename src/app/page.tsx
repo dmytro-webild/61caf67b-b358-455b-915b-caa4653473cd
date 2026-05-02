@@ -62,7 +62,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/coworkers-refill-air-conditioner-freon_482257-90737.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/coworkers-refill-air-conditioner-freon_482257-90737.jpg?_wi=1"
     />
   </div>
 
@@ -81,7 +81,7 @@ export default function LandingPage() {
           title: "Homes Served",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/bald-man-with-beard-wearing-builder-jumpsuit-uniform-showing-middle-finger-doing-fuck-you-bad-expression-provocation-rude-attitude-screaming-excited_839833-27667.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/bald-man-with-beard-wearing-builder-jumpsuit-uniform-showing-middle-finger-doing-fuck-you-bad-expression-provocation-rude-attitude-screaming-excited_839833-27667.jpg?_wi=1"
       mediaAnimation="slide-up"
       metricsAnimation="slide-up"
     />
@@ -102,7 +102,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/close-up-ventilation-system_23-2149388966.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/coworkers-refill-air-conditioner-freon_482257-90737.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/coworkers-refill-air-conditioner-freon_482257-90737.jpg?_wi=2",
           imageAlt: "ac ventilation wall unit",
         },
         {
@@ -114,7 +114,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/close-up-heat-pump-outside-home_23-2149250247.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/bald-man-with-beard-wearing-builder-jumpsuit-uniform-showing-middle-finger-doing-fuck-you-bad-expression-provocation-rude-attitude-screaming-excited_839833-27667.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/bald-man-with-beard-wearing-builder-jumpsuit-uniform-showing-middle-finger-doing-fuck-you-bad-expression-provocation-rude-attitude-screaming-excited_839833-27667.jpg?_wi=2",
           imageAlt: "ac ventilation wall unit",
         },
         {
@@ -126,7 +126,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-woman-holding-tablet_23-2148994178.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-turning-air-conditioner-using-tablet_259150-57148.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-turning-air-conditioner-using-tablet_259150-57148.jpg?_wi=1",
           imageAlt: "ac ventilation wall unit",
         },
       ]}
@@ -148,7 +148,7 @@ export default function LandingPage() {
           name: "UltraCool AC Unit",
           price: "$2,499",
           variant: "Cooling",
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-turning-air-conditioner-using-tablet_259150-57148.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-turning-air-conditioner-using-tablet_259150-57148.jpg?_wi=2",
         },
         {
           id: "2",
