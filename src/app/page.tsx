@@ -42,7 +42,7 @@ export default function LandingPage() {
 
   <div id="hero" data-section="hero">
       <HeroLogo
-      logoText="Professional HVAC Services"
+      logoText="Experience Perfect Indoor Comfort All Year Round"
       description="Expert heating, ventilation, and air conditioning solutions for your home. Reliable service, professional technicians, and year-round comfort."
       buttons={[
         { text: "Schedule Service", href: "#contact" },
