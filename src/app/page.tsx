@@ -6,7 +6,7 @@ import ContactCenter from '@/components/sections/contact/ContactCenter';
 import FaqBase from '@/components/sections/faq/FaqBase';
 import FeatureCardNine from '@/components/sections/feature/FeatureCardNine';
 import FooterLogoReveal from '@/components/sections/footer/FooterLogoReveal';
-import HeroLogo from '@/components/sections/hero/HeroLogo';
+import HeroCarouselLogo from '@/components/sections/hero/heroCarouselLogo/HeroCarouselLogo';
 import MetricSplitMediaAbout from '@/components/sections/about/MetricSplitMediaAbout';
 import NavbarStyleApple from '@/components/navbar/NavbarStyleApple/NavbarStyleApple';
 import PricingCardFive from '@/components/sections/pricing/PricingCardFive';
@@ -41,13 +41,16 @@ export default function LandingPage() {
   </div>
 
   <div id="hero" data-section="hero">
-      <HeroLogo
+      <HeroCarouselLogo
       logoText="Experience Perfect Indoor Comfort All Year Round"
       description="Expert heating, ventilation, and air conditioning solutions for your home. Reliable service, professional technicians, and year-round comfort."
       buttons={[
         { text: "Schedule Service", href: "#contact" },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/coworkers-refill-air-conditioner-freon_482257-90737.jpg"
+      slides={[
+        { imageSrc: "http://img.b2bpic.net/free-photo/coworkers-refill-air-conditioner-freon_482257-90737.jpg", imageAlt: "Technician servicing AC unit" },
+        { imageSrc: "http://img.b2bpic.net/free-photo/close-up-ventilation-system_23-2149388946.jpg", imageAlt: "Modern ventilation system" },
+      ]}
     />
   </div>
 
